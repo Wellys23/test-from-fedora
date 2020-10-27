@@ -1,6 +1,3 @@
 line by github!
 line by github!
-conflit in here!
-
-
-line by github!
+This one!
